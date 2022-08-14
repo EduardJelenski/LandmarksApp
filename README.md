@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/static/v1?label=language&message=swift&color=orange)
 
 <p align="left">
-  ![landmark_app_icon_1024x1024](https://user-images.githubusercontent.com/66919037/184545401-231d54e8-6187-427c-a6ac-a6da14d87e11.png)
+  <img width=150 src="https://user-images.githubusercontent.com/66919037/184545495-30e67a9a-2be0-4515-9535-a03537fd92d7.png" alt="Icon"/>
 </p>
 
 SwiftUI study project
@@ -11,8 +11,11 @@ SwiftUI study project
 ## Features
 
 * Bridging SUI and UIKit
-* Using drawing
 
 <p align="center">
-  https://user-images.githubusercontent.com/66919037/184545350-34b6c9fc-78ee-43d4-a9cb-2e4287f515e7.mp4
+
+
+https://user-images.githubusercontent.com/66919037/184545551-8b25596d-232e-455d-9d36-0350f11060fd.mp4
+
+
 </p>
