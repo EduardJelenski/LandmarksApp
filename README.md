@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/static/v1?label=language&message=swift&color=orange)
 
 <p align="left">
-  <img width=150 src="https://github.com/bestK1ngArthur/CovidApp/blob/main/Screenshots/AppIcon.png" alt="Icon"/>
+  ![landmark_app_icon_1024x1024](https://user-images.githubusercontent.com/66919037/184545401-231d54e8-6187-427c-a6ac-a6da14d87e11.png)
 </p>
 
 SwiftUI study project
@@ -14,9 +14,5 @@ SwiftUI study project
 * Using drawing
 
 <p align="center">
-  
-
-https://user-images.githubusercontent.com/66919037/184545350-34b6c9fc-78ee-43d4-a9cb-2e4287f515e7.mp4
-
-
+  https://user-images.githubusercontent.com/66919037/184545350-34b6c9fc-78ee-43d4-a9cb-2e4287f515e7.mp4
 </p>
